@@ -100,9 +100,6 @@
     text-decoration: none;
 }
 
-.mobile-menu-list {
-}
-
 .mobile-menu-item:not(:last-child) {
     margin-bottom: 28px;
 }
