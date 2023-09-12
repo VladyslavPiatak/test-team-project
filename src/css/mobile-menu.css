@@ -19,7 +19,7 @@
     .menu-toggle {
         display: none;
     }
-    .menu-container.menu-container.is-open {
+    .menu-container.is-open {
         transform: translateX(100%);
     }
 }
